@@ -9,3 +9,5 @@ filter.py - Filter file. Contains all filters removing unnecessary tweets, and c
 hunnidscrape.csv - Full, unfiltered scrape output. 1000 tweets.
 
 facts.csv, opinions.csv, and unmarked.csv - output files for the categorization filters.
+
+filteroutput_coding.csv - full annotated list of filtered tweets. 
